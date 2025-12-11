@@ -61,12 +61,17 @@ The dataset contains information about passengers aboard the Titanic, including:
   Survival probability across different engineered features
 
 # Visualizations made using:
+  Pandas
+
+  Numpy
 
   Matplotlib
   
   Seaborn
   
   Plotly (optional)
+
+  Scikit-Learn (optional)
 
 # 🤖 Machine Learning Models
 
